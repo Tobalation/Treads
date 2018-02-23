@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Animation">
+    <Position X="12.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQARAAAgAAAAAAAgAAAAAEACBAQAwAAAABgAQBAAAE=</HashCode>
+      <FileName>Animation.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="2.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAACAAAAAABAAAAAAABAAAQAQAAA=</HashCode>
+      <FileName>Bullet.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyKamikaze">
+    <Position X="8.25" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAACAAIAAAAAAAAAAABAAAQAAAAA=</HashCode>
+      <FileName>EnemyKamikaze.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explosion">
+    <Position X="13.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAIAEAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Explosion.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEAADAAAgQAAAgAGABAAAAAEABAACJBkIGpABAA=</HashCode>
+      <FileName>GameObject.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuItem">
+    <Position X="5.5" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAABAAAAAAAIAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>MenuItem.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mine">
+    <Position X="11" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAgAAAAAAAAIAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Mine.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="16.5" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAAAAAEBICAAYgAAAAEIAAABBBAAQAAAQA=</HashCode>
+      <FileName>Player.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloatingText">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAABAQAAAAAAAAAAAAAAAAQAIABAQAAAAAAA=</HashCode>
+      <FileName>FloatingText.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreRecord">
+    <Position X="15.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAACAIAAAAAAAEAACAAQAEAAEAAAI=</HashCode>
+      <FileName>ScoreRecord.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="19" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAEAQAAAgITAIlgAAIgQABBoAAACAECBEQAAAAQAVA=</HashCode>
+      <FileName>SoundManager.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
