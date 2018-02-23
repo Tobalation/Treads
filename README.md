@@ -2,8 +2,8 @@
 A top down 2D tank game written in C++ using SFML for freshman software project.
 
 # Screenshots:
-![menu]( "The game menu")
-![gameplay]( "Gameplay")
+![menu](https://github.com/Tobalation/Treads/blob/master/images/menu.png "The game menu")
+![gameplay](https://github.com/Tobalation/Treads/blob/master/images/gameplay.png "Gameplay")
 
 ## Building
 This project was complied using Microsoft Visual Studio 2015.
